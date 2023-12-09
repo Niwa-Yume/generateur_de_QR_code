@@ -2,8 +2,8 @@
 import qrcode
 import os
 #Fonctionne avec :
-# The qrcode library: This library lets us perform all of our QR code related operations.
-#The pillow library: This library helps us process and save images.
+# The qrcode library: la librairie qui permet d'avoir les action lié au QR code
+#The pillow library: Cette bibliothèque nous aide à traiter et à enregistrer les images.
 lien_du_site_web = 'https://noctinium.com/'
 #Version: c'est la quantitét d'infos que peut contenir le QR code (1=21x21 cases et 40 le max = 177x177 cases)
 
